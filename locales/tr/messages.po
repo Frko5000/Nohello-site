@@ -127,7 +127,7 @@ msgid "example.good.reply2.timestamp"
 msgstr "14:16"
 
 msgid "example.good.reply2.body"
-msgstr "👌 öd"
+msgstr "👌 sıkıntı yok"
 
 msgid "footer.note"
 msgstr ""
